@@ -15,7 +15,7 @@ var Blocks = function (game, count, y, rate, velocity) {
       game,
       -100,
       y,
-      velocity: velocity
+      velocity
     ));
   }
 
